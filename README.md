@@ -11,3 +11,8 @@ add m1
 
 add m1-1 
 add m1-2
+
+# Issue/PR link
+
+- #7 hoge
+- #8 fuga
