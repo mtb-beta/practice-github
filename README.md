@@ -14,5 +14,5 @@ add m1-2
 
 # Issue/PR link
 
-- #7 hoge
-- #8 fuga
+- [#7](#7) hoge
+- [#8]() fuga
